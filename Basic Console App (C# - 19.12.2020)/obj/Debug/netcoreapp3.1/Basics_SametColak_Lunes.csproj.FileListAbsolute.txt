@@ -1,0 +1,26 @@
+C:\Users\Samet\Downloads\Samet\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.csprojAssemblyReference.cache
+C:\Users\Samet\Downloads\Samet\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.AssemblyInfoInputs.cache
+C:\Users\Samet\Downloads\Samet\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.AssemblyInfo.cs
+C:\Users\Samet\Downloads\Samet\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Downloads\Samet\Basics_SametColak_Lunes\bin\Debug\netcoreapp3.1\Basics_SametColak_Lunes.exe
+C:\Users\Samet\Downloads\Samet\Basics_SametColak_Lunes\bin\Debug\netcoreapp3.1\Basics_SametColak_Lunes.deps.json
+C:\Users\Samet\Downloads\Samet\Basics_SametColak_Lunes\bin\Debug\netcoreapp3.1\Basics_SametColak_Lunes.runtimeconfig.json
+C:\Users\Samet\Downloads\Samet\Basics_SametColak_Lunes\bin\Debug\netcoreapp3.1\Basics_SametColak_Lunes.runtimeconfig.dev.json
+C:\Users\Samet\Downloads\Samet\Basics_SametColak_Lunes\bin\Debug\netcoreapp3.1\Basics_SametColak_Lunes.dll
+C:\Users\Samet\Downloads\Samet\Basics_SametColak_Lunes\bin\Debug\netcoreapp3.1\Basics_SametColak_Lunes.pdb
+C:\Users\Samet\Downloads\Samet\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.dll
+C:\Users\Samet\Downloads\Samet\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.pdb
+C:\Users\Samet\Downloads\Samet\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.genruntimeconfig.cache
+C:\Users\Samet\Downloads\Samet\Samet Çolak-Tasks_Lunes\Samet Colak_Tasks_Lunes(Jr. Software Developer)\Basics_SametColak_Lunes\bin\Debug\netcoreapp3.1\Basics_SametColak_Lunes.exe
+C:\Users\Samet\Downloads\Samet\Samet Çolak-Tasks_Lunes\Samet Colak_Tasks_Lunes(Jr. Software Developer)\Basics_SametColak_Lunes\bin\Debug\netcoreapp3.1\Basics_SametColak_Lunes.deps.json
+C:\Users\Samet\Downloads\Samet\Samet Çolak-Tasks_Lunes\Samet Colak_Tasks_Lunes(Jr. Software Developer)\Basics_SametColak_Lunes\bin\Debug\netcoreapp3.1\Basics_SametColak_Lunes.runtimeconfig.json
+C:\Users\Samet\Downloads\Samet\Samet Çolak-Tasks_Lunes\Samet Colak_Tasks_Lunes(Jr. Software Developer)\Basics_SametColak_Lunes\bin\Debug\netcoreapp3.1\Basics_SametColak_Lunes.runtimeconfig.dev.json
+C:\Users\Samet\Downloads\Samet\Samet Çolak-Tasks_Lunes\Samet Colak_Tasks_Lunes(Jr. Software Developer)\Basics_SametColak_Lunes\bin\Debug\netcoreapp3.1\Basics_SametColak_Lunes.dll
+C:\Users\Samet\Downloads\Samet\Samet Çolak-Tasks_Lunes\Samet Colak_Tasks_Lunes(Jr. Software Developer)\Basics_SametColak_Lunes\bin\Debug\netcoreapp3.1\Basics_SametColak_Lunes.pdb
+C:\Users\Samet\Downloads\Samet\Samet Çolak-Tasks_Lunes\Samet Colak_Tasks_Lunes(Jr. Software Developer)\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.csprojAssemblyReference.cache
+C:\Users\Samet\Downloads\Samet\Samet Çolak-Tasks_Lunes\Samet Colak_Tasks_Lunes(Jr. Software Developer)\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.AssemblyInfoInputs.cache
+C:\Users\Samet\Downloads\Samet\Samet Çolak-Tasks_Lunes\Samet Colak_Tasks_Lunes(Jr. Software Developer)\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.AssemblyInfo.cs
+C:\Users\Samet\Downloads\Samet\Samet Çolak-Tasks_Lunes\Samet Colak_Tasks_Lunes(Jr. Software Developer)\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Downloads\Samet\Samet Çolak-Tasks_Lunes\Samet Colak_Tasks_Lunes(Jr. Software Developer)\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.dll
+C:\Users\Samet\Downloads\Samet\Samet Çolak-Tasks_Lunes\Samet Colak_Tasks_Lunes(Jr. Software Developer)\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.pdb
+C:\Users\Samet\Downloads\Samet\Samet Çolak-Tasks_Lunes\Samet Colak_Tasks_Lunes(Jr. Software Developer)\Basics_SametColak_Lunes\obj\Debug\netcoreapp3.1\Basics_SametColak_Lunes.genruntimeconfig.cache
