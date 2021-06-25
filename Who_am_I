@@ -155,7 +155,7 @@ def game_func():
     def playagain_func():
         rep = str(input("\n\nWould you like to play again?"))
         if rep in yes:
-            restart_func()
+            start_func()
         elif rep in no:
             print("Okay, thanks for playing!")
             return 0
